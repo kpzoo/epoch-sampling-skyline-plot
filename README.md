@@ -1,5 +1,5 @@
 # epoch-sampling-skyline-plot
-Code for the maximum likelihood solution to the epoch sampling skyline plot (ESP) method of Parag, du Plessis and Pybus
+Code for the maximum likelihood solution to the epoch sampling skyline plot (ESP) method of Kris V Parag, Louis du Plessis and Oliver G Pybus available at https://www.biorxiv.org/content/10.1101/686378v1
 
 - the ESP is implemented in Matlab and processes data generated from R scripts
 - utilises the phylodyn R package of Karcher et al and the shadedplot Matlab package
@@ -18,7 +18,7 @@ ESP:
 
 K. Parag, L. du Plessis, and O. Pybus. An integrated framework for the joint inference of demographic history and sampling intensity from genealogies or genetic sequences. BioRxiv, 686378, 2019.
 
-
+Related repositories: the Bayesian implementation of the ESP (BESP) and other extensions of the ESP available at https://github.com/laduplessis/BESP_paper-analyses
 
 Dependencies: 
 
